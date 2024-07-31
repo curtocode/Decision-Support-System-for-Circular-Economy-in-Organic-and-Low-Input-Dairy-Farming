@@ -27,6 +27,7 @@
     // is a simple way to find a fitted line
     // between a set of coordinates.
     function linear_regression() {
+        console.log('linear_regression');
         var linreg = {},
             data = [];
 
